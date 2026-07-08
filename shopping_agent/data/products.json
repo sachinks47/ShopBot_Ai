@@ -1,0 +1,1041 @@
+[
+  {
+    "id": "E001",
+    "name": "UltraBook Pro 15",
+    "brand": "TechEdge",
+    "category": "electronics",
+    "subcategory": "laptops",
+    "description": "High-performance 15-inch laptop with Intel Core i7, 16GB RAM, 512GB SSD, ideal for professionals and creatives.",
+    "price_usd": 949.99,
+    "source": "Amazon",
+    "rating": 4.5,
+    "review_count": 1240,
+    "sustainability_score": 6,
+    "tags": ["laptop", "ultrabook", "professional", "intel", "15-inch"],
+    "image_url": "https://via.placeholder.com/300x200?text=UltraBook+Pro+15",
+    "in_stock": true,
+    "discount_history": [
+      {"date": "2024-01-10", "price": 1099.99},
+      {"date": "2024-03-15", "price": 999.99},
+      {"date": "2024-06-20", "price": 949.99},
+      {"date": "2024-09-01", "price": 899.99},
+      {"date": "2024-11-25", "price": 849.99}
+    ],
+    "reviews": [
+      "Amazing laptop, blazing fast performance and excellent build quality.",
+      "Battery life could be better but overall a solid machine for work.",
+      "Keyboard feels premium. Screen is gorgeous. Worth every penny.",
+      "Runs hot under heavy load, but performance is top notch.",
+      "Great laptop for the price. Would recommend to anyone looking for power."
+    ]
+  },
+  {
+    "id": "E002",
+    "name": "UltraBook Pro 15",
+    "brand": "TechEdge",
+    "category": "electronics",
+    "subcategory": "laptops",
+    "description": "High-performance 15-inch laptop with Intel Core i7, 16GB RAM, 512GB SSD.",
+    "price_usd": 979.00,
+    "source": "Flipkart",
+    "rating": 4.3,
+    "review_count": 870,
+    "sustainability_score": 6,
+    "tags": ["laptop", "ultrabook", "professional", "intel", "15-inch"],
+    "image_url": "https://via.placeholder.com/300x200?text=UltraBook+Pro+15",
+    "in_stock": true,
+    "discount_history": [
+      {"date": "2024-01-10", "price": 1089.00},
+      {"date": "2024-05-01", "price": 1009.00},
+      {"date": "2024-08-15", "price": 979.00}
+    ],
+    "reviews": [
+      "Good performance but the fan noise is a bit loud.",
+      "Excellent display and fast SSD. Happy with the purchase.",
+      "Delivery was fast. Laptop is as described."
+    ]
+  },
+  {
+    "id": "E003",
+    "name": "UltraBook Pro 15",
+    "brand": "TechEdge",
+    "category": "electronics",
+    "subcategory": "laptops",
+    "description": "High-performance 15-inch laptop with Intel Core i7, 16GB RAM, 512GB SSD.",
+    "price_usd": 939.00,
+    "source": "Walmart",
+    "rating": 4.4,
+    "review_count": 530,
+    "sustainability_score": 6,
+    "tags": ["laptop", "ultrabook", "professional", "intel", "15-inch"],
+    "image_url": "https://via.placeholder.com/300x200?text=UltraBook+Pro+15",
+    "in_stock": false,
+    "discount_history": [
+      {"date": "2024-02-01", "price": 1050.00},
+      {"date": "2024-07-04", "price": 939.00}
+    ],
+    "reviews": [
+      "Great deal from Walmart. Fast shipping.",
+      "Battery lasts about 6 hours which is decent.",
+      "Solid laptop, no complaints so far."
+    ]
+  },
+  {
+    "id": "E004",
+    "name": "GreenBook Eco 13",
+    "brand": "EcoTech",
+    "category": "electronics",
+    "subcategory": "laptops",
+    "description": "Eco-friendly 13-inch laptop made from recycled aluminium, AMD Ryzen 5, 8GB RAM, 256GB SSD. Designed for sustainability.",
+    "price_usd": 699.99,
+    "source": "Amazon",
+    "rating": 4.2,
+    "review_count": 650,
+    "sustainability_score": 9,
+    "tags": ["laptop", "eco-friendly", "amd", "13-inch", "sustainable", "recycled"],
+    "image_url": "https://via.placeholder.com/300x200?text=GreenBook+Eco+13",
+    "in_stock": true,
+    "discount_history": [
+      {"date": "2024-01-01", "price": 799.99},
+      {"date": "2024-04-01", "price": 749.99},
+      {"date": "2024-08-01", "price": 699.99}
+    ],
+    "reviews": [
+      "Love the eco-friendly design. Feels premium despite being sustainable.",
+      "Good performance for everyday tasks. Battery lasts all day.",
+      "Lightweight and portable. Great for students.",
+      "Slightly underpowered for heavy workloads but perfect for office use.",
+      "Very happy with this purchase. Does everything I need."
+    ]
+  },
+  {
+    "id": "E005",
+    "name": "PixelPhone X12",
+    "brand": "PixelCo",
+    "category": "electronics",
+    "subcategory": "smartphones",
+    "description": "6.7-inch AMOLED smartphone with 108MP camera, Snapdragon 888, 12GB RAM, 5G capable.",
+    "price_usd": 799.99,
+    "source": "Amazon",
+    "rating": 4.6,
+    "review_count": 3200,
+    "sustainability_score": 5,
+    "tags": ["smartphone", "android", "5g", "camera", "snapdragon"],
+    "image_url": "https://via.placeholder.com/300x200?text=PixelPhone+X12",
+    "in_stock": true,
+    "discount_history": [
+      {"date": "2024-01-01", "price": 999.99},
+      {"date": "2024-03-01", "price": 899.99},
+      {"date": "2024-06-01", "price": 799.99},
+      {"date": "2024-09-01", "price": 749.99},
+      {"date": "2024-11-01", "price": 699.99}
+    ],
+    "reviews": [
+      "Best camera I've ever used on a phone. Photos are stunning.",
+      "Battery life is impressive. Easily lasts two days.",
+      "The display is absolutely gorgeous, colors pop.",
+      "Fast charging is a lifesaver. Highly recommend.",
+      "Slick performance, no lag whatsoever."
+    ]
+  },
+  {
+    "id": "E006",
+    "name": "PixelPhone X12",
+    "brand": "PixelCo",
+    "category": "electronics",
+    "subcategory": "smartphones",
+    "description": "6.7-inch AMOLED smartphone with 108MP camera, Snapdragon 888, 12GB RAM, 5G capable.",
+    "price_usd": 819.00,
+    "source": "Flipkart",
+    "rating": 4.5,
+    "review_count": 2100,
+    "sustainability_score": 5,
+    "tags": ["smartphone", "android", "5g", "camera", "snapdragon"],
+    "image_url": "https://via.placeholder.com/300x200?text=PixelPhone+X12",
+    "in_stock": true,
+    "discount_history": [
+      {"date": "2024-02-01", "price": 950.00},
+      {"date": "2024-07-01", "price": 820.00}
+    ],
+    "reviews": [
+      "Great phone, love the camera system.",
+      "Excellent value for money.",
+      "Very smooth performance."
+    ]
+  },
+  {
+    "id": "E007",
+    "name": "SoundMax Elite Headphones",
+    "brand": "SoundMax",
+    "category": "electronics",
+    "subcategory": "audio",
+    "description": "Premium over-ear noise-cancelling headphones with 40-hour battery life, Hi-Fi audio, and foldable design.",
+    "price_usd": 249.99,
+    "source": "Amazon",
+    "rating": 4.7,
+    "review_count": 5600,
+    "sustainability_score": 4,
+    "tags": ["headphones", "noise-cancelling", "wireless", "audio", "premium"],
+    "image_url": "https://via.placeholder.com/300x200?text=SoundMax+Elite",
+    "in_stock": true,
+    "discount_history": [
+      {"date": "2024-01-01", "price": 299.99},
+      {"date": "2024-05-01", "price": 269.99},
+      {"date": "2024-08-01", "price": 249.99},
+      {"date": "2024-11-25", "price": 199.99}
+    ],
+    "reviews": [
+      "Incredible noise cancellation. Can't hear anything outside.",
+      "Best headphones I've owned. The bass is deep and clear.",
+      "Comfortable for hours of use. No ear fatigue.",
+      "Battery lasts forever. Perfect for long flights.",
+      "Worth every penny. Audio quality is phenomenal."
+    ]
+  },
+  {
+    "id": "E008",
+    "name": "SoundMax Elite Headphones",
+    "brand": "SoundMax",
+    "category": "electronics",
+    "subcategory": "audio",
+    "description": "Premium over-ear noise-cancelling headphones with 40-hour battery life.",
+    "price_usd": 259.00,
+    "source": "Walmart",
+    "rating": 4.6,
+    "review_count": 2300,
+    "sustainability_score": 4,
+    "tags": ["headphones", "noise-cancelling", "wireless", "audio", "premium"],
+    "image_url": "https://via.placeholder.com/300x200?text=SoundMax+Elite",
+    "in_stock": true,
+    "discount_history": [
+      {"date": "2024-03-01", "price": 290.00},
+      {"date": "2024-09-01", "price": 259.00}
+    ],
+    "reviews": [
+      "Great sound. Comfortable fit.",
+      "Good noise cancellation for the price.",
+      "Solid build quality."
+    ]
+  },
+  {
+    "id": "E009",
+    "name": "SmartWatch Series 7",
+    "brand": "WristTech",
+    "category": "electronics",
+    "subcategory": "wearables",
+    "description": "Advanced smartwatch with health monitoring, GPS, always-on display, and 7-day battery. Water resistant to 50m.",
+    "price_usd": 329.99,
+    "source": "Amazon",
+    "rating": 4.4,
+    "review_count": 2870,
+    "sustainability_score": 5,
+    "tags": ["smartwatch", "fitness", "gps", "health", "wearable"],
+    "image_url": "https://via.placeholder.com/300x200?text=SmartWatch+Series+7",
+    "in_stock": true,
+    "discount_history": [
+      {"date": "2024-01-01", "price": 399.99},
+      {"date": "2024-06-01", "price": 349.99},
+      {"date": "2024-09-01", "price": 329.99}
+    ],
+    "reviews": [
+      "Tracks my workouts perfectly. Love the GPS accuracy.",
+      "Battery life is outstanding. Lasts a full week.",
+      "Sleek design and very comfortable to wear.",
+      "Great health features, especially sleep tracking.",
+      "The always-on display is beautiful."
+    ]
+  },
+  {
+    "id": "E010",
+    "name": "4K Gaming Monitor 27\"",
+    "brand": "ViewPro",
+    "category": "electronics",
+    "subcategory": "monitors",
+    "description": "27-inch 4K IPS gaming monitor with 144Hz refresh rate, 1ms response time, FreeSync Premium, HDR400.",
+    "price_usd": 449.99,
+    "source": "Amazon",
+    "rating": 4.5,
+    "review_count": 1890,
+    "sustainability_score": 5,
+    "tags": ["monitor", "gaming", "4k", "144hz", "ips"],
+    "image_url": "https://via.placeholder.com/300x200?text=4K+Gaming+Monitor",
+    "in_stock": true,
+    "discount_history": [
+      {"date": "2024-01-01", "price": 549.99},
+      {"date": "2024-04-01", "price": 499.99},
+      {"date": "2024-08-01", "price": 449.99},
+      {"date": "2024-11-25", "price": 399.99}
+    ],
+    "reviews": [
+      "Stunning 4K clarity. Games look absolutely amazing.",
+      "144Hz makes everything buttery smooth.",
+      "Colors are vibrant and accurate out of the box.",
+      "Easy to set up. Solid stand with good adjustment range.",
+      "Best monitor I've ever owned. No dead pixels."
+    ]
+  },
+  {
+    "id": "C001",
+    "name": "EcoWear Organic Cotton T-Shirt",
+    "brand": "GreenThread",
+    "category": "clothing",
+    "subcategory": "tops",
+    "description": "100% GOTS-certified organic cotton t-shirt. Breathable, durable, and made with fair-trade labor. Available in 8 colors.",
+    "price_usd": 29.99,
+    "source": "Amazon",
+    "rating": 4.6,
+    "review_count": 3100,
+    "sustainability_score": 10,
+    "tags": ["t-shirt", "organic", "eco-friendly", "cotton", "sustainable", "fair-trade"],
+    "image_url": "https://via.placeholder.com/300x200?text=Organic+T-Shirt",
+    "in_stock": true,
+    "discount_history": [
+      {"date": "2024-01-01", "price": 39.99},
+      {"date": "2024-06-01", "price": 34.99},
+      {"date": "2024-09-01", "price": 29.99}
+    ],
+    "reviews": [
+      "So soft and comfortable. Best t-shirt I've ever owned.",
+      "Love that it's organic and ethically made. Fits perfectly.",
+      "Washed it 20 times and still looks brand new.",
+      "Great quality for the price. Will buy more colors.",
+      "Perfect weight — not too thin, not too thick."
+    ]
+  },
+  {
+    "id": "C002",
+    "name": "EcoWear Organic Cotton T-Shirt",
+    "brand": "GreenThread",
+    "category": "clothing",
+    "subcategory": "tops",
+    "description": "100% GOTS-certified organic cotton t-shirt.",
+    "price_usd": 27.50,
+    "source": "Walmart",
+    "rating": 4.4,
+    "review_count": 1200,
+    "sustainability_score": 10,
+    "tags": ["t-shirt", "organic", "eco-friendly", "cotton", "sustainable"],
+    "image_url": "https://via.placeholder.com/300x200?text=Organic+T-Shirt",
+    "in_stock": true,
+    "discount_history": [
+      {"date": "2024-03-01", "price": 35.00},
+      {"date": "2024-08-01", "price": 27.50}
+    ],
+    "reviews": [
+      "Good quality for an organic shirt.",
+      "Comfortable and breathable.",
+      "Nice fit. Would recommend."
+    ]
+  },
+  {
+    "id": "C003",
+    "name": "TrailBlaze Hiking Jacket",
+    "brand": "OutdoorPro",
+    "category": "clothing",
+    "subcategory": "outerwear",
+    "description": "Waterproof and windproof hiking jacket with breathable membrane, zip vents, and recycled polyester shell.",
+    "price_usd": 149.99,
+    "source": "Amazon",
+    "rating": 4.5,
+    "review_count": 980,
+    "sustainability_score": 7,
+    "tags": ["jacket", "hiking", "waterproof", "outdoor", "windproof", "recycled"],
+    "image_url": "https://via.placeholder.com/300x200?text=Hiking+Jacket",
+    "in_stock": true,
+    "discount_history": [
+      {"date": "2024-01-01", "price": 189.99},
+      {"date": "2024-05-01", "price": 169.99},
+      {"date": "2024-09-01", "price": 149.99}
+    ],
+    "reviews": [
+      "Kept me completely dry in heavy rain. Excellent jacket.",
+      "Lightweight yet very warm. Perfect for mountain hikes.",
+      "The fit is perfect. Lots of pockets too.",
+      "Great value for a waterproof jacket at this price.",
+      "Highly recommend for any outdoor enthusiast."
+    ]
+  },
+  {
+    "id": "C004",
+    "name": "TrailBlaze Hiking Jacket",
+    "brand": "OutdoorPro",
+    "category": "clothing",
+    "subcategory": "outerwear",
+    "description": "Waterproof and windproof hiking jacket with recycled polyester shell.",
+    "price_usd": 159.00,
+    "source": "Flipkart",
+    "rating": 4.3,
+    "review_count": 450,
+    "sustainability_score": 7,
+    "tags": ["jacket", "hiking", "waterproof", "outdoor"],
+    "image_url": "https://via.placeholder.com/300x200?text=Hiking+Jacket",
+    "in_stock": false,
+    "discount_history": [
+      {"date": "2024-04-01", "price": 180.00},
+      {"date": "2024-10-01", "price": 159.00}
+    ],
+    "reviews": [
+      "Good jacket but delivery was slow.",
+      "Waterproofing is excellent.",
+      "Fits a little large, size down."
+    ]
+  },
+  {
+    "id": "C005",
+    "name": "Urban Comfort Sneakers",
+    "brand": "StepUp",
+    "category": "clothing",
+    "subcategory": "footwear",
+    "description": "Casual sneakers with memory foam insole, vegan leather upper, and non-slip rubber sole. Lightweight at 280g.",
+    "price_usd": 79.99,
+    "source": "Amazon",
+    "rating": 4.4,
+    "review_count": 4200,
+    "sustainability_score": 6,
+    "tags": ["sneakers", "casual", "vegan", "comfortable", "lightweight"],
+    "image_url": "https://via.placeholder.com/300x200?text=Urban+Sneakers",
+    "in_stock": true,
+    "discount_history": [
+      {"date": "2024-01-01", "price": 99.99},
+      {"date": "2024-06-01", "price": 89.99},
+      {"date": "2024-09-01", "price": 79.99}
+    ],
+    "reviews": [
+      "Most comfortable sneakers I've worn. Like walking on clouds.",
+      "Vegan leather looks and feels premium.",
+      "Perfect for daily wear. Very stylish.",
+      "Memory foam insole is a game changer.",
+      "Great shoes at a great price."
+    ]
+  },
+  {
+    "id": "C006",
+    "name": "Urban Comfort Sneakers",
+    "brand": "StepUp",
+    "category": "clothing",
+    "subcategory": "footwear",
+    "description": "Casual sneakers with memory foam insole and vegan leather upper.",
+    "price_usd": 74.99,
+    "source": "Walmart",
+    "rating": 4.2,
+    "review_count": 1800,
+    "sustainability_score": 6,
+    "tags": ["sneakers", "casual", "vegan", "comfortable"],
+    "image_url": "https://via.placeholder.com/300x200?text=Urban+Sneakers",
+    "in_stock": true,
+    "discount_history": [
+      {"date": "2024-03-01", "price": 89.99},
+      {"date": "2024-08-01", "price": 74.99}
+    ],
+    "reviews": [
+      "Good quality for the price.",
+      "Comfortable fit. Good for walking.",
+      "Looks great with casual outfits."
+    ]
+  },
+  {
+    "id": "C007",
+    "name": "YogaFlex Activewear Leggings",
+    "brand": "FlexFit",
+    "category": "clothing",
+    "subcategory": "activewear",
+    "description": "High-waist compression leggings made from 78% recycled nylon. 4-way stretch, moisture-wicking, squat-proof.",
+    "price_usd": 54.99,
+    "source": "Amazon",
+    "rating": 4.7,
+    "review_count": 6800,
+    "sustainability_score": 8,
+    "tags": ["leggings", "yoga", "activewear", "compression", "recycled", "moisture-wicking"],
+    "image_url": "https://via.placeholder.com/300x200?text=YogaFlex+Leggings",
+    "in_stock": true,
+    "discount_history": [
+      {"date": "2024-01-01", "price": 69.99},
+      {"date": "2024-05-01", "price": 59.99},
+      {"date": "2024-08-01", "price": 54.99}
+    ],
+    "reviews": [
+      "Best leggings I've ever owned. Never going back.",
+      "Squat-proof and actually comfortable to wear all day.",
+      "Love that they're made from recycled materials.",
+      "Perfect for yoga and running. No slipping.",
+      "Great compression without feeling too tight."
+    ]
+  },
+  {
+    "id": "H001",
+    "name": "BambooChef Cookware Set 10-Piece",
+    "brand": "BambooChef",
+    "category": "home",
+    "subcategory": "kitchen",
+    "description": "10-piece non-stick cookware set with bamboo handles. PFOA-free coating, oven safe to 400°F, induction compatible.",
+    "price_usd": 119.99,
+    "source": "Amazon",
+    "rating": 4.5,
+    "review_count": 2450,
+    "sustainability_score": 8,
+    "tags": ["cookware", "non-stick", "bamboo", "eco-friendly", "kitchen", "induction"],
+    "image_url": "https://via.placeholder.com/300x200?text=BambooChef+Cookware",
+    "in_stock": true,
+    "discount_history": [
+      {"date": "2024-01-01", "price": 149.99},
+      {"date": "2024-04-01", "price": 129.99},
+      {"date": "2024-07-01", "price": 119.99},
+      {"date": "2024-11-25", "price": 99.99}
+    ],
+    "reviews": [
+      "Best cookware set I've ever bought. Food slides right off.",
+      "Love the bamboo handles. Eco-friendly and stylish.",
+      "Heats evenly and cleans up easily.",
+      "PFOA-free is important to me. So glad I found this.",
+      "Great value for a complete set."
+    ]
+  },
+  {
+    "id": "H002",
+    "name": "BambooChef Cookware Set 10-Piece",
+    "brand": "BambooChef",
+    "category": "home",
+    "subcategory": "kitchen",
+    "description": "10-piece non-stick cookware set with bamboo handles. PFOA-free.",
+    "price_usd": 129.00,
+    "source": "Walmart",
+    "rating": 4.3,
+    "review_count": 980,
+    "sustainability_score": 8,
+    "tags": ["cookware", "non-stick", "bamboo", "eco-friendly", "kitchen"],
+    "image_url": "https://via.placeholder.com/300x200?text=BambooChef+Cookware",
+    "in_stock": true,
+    "discount_history": [
+      {"date": "2024-05-01", "price": 145.00},
+      {"date": "2024-09-01", "price": 129.00}
+    ],
+    "reviews": [
+      "Great cookware. Easy to clean.",
+      "Good quality for the price.",
+      "Non-stick works well."
+    ]
+  },
+  {
+    "id": "H003",
+    "name": "SolarGlow Smart LED Bulbs (4-Pack)",
+    "brand": "SolarGlow",
+    "category": "home",
+    "subcategory": "lighting",
+    "description": "Smart Wi-Fi LED bulbs, 16 million colors, voice control (Alexa/Google), 10W = 75W equivalent, 15,000hr lifespan.",
+    "price_usd": 39.99,
+    "source": "Amazon",
+    "rating": 4.3,
+    "review_count": 7800,
+    "sustainability_score": 9,
+    "tags": ["smart bulb", "led", "wifi", "voice control", "energy saving", "alexa"],
+    "image_url": "https://via.placeholder.com/300x200?text=SolarGlow+LED",
+    "in_stock": true,
+    "discount_history": [
+      {"date": "2024-01-01", "price": 49.99},
+      {"date": "2024-06-01", "price": 44.99},
+      {"date": "2024-09-01", "price": 39.99}
+    ],
+    "reviews": [
+      "Easy setup. Works great with Alexa.",
+      "Colors are vivid and the app is intuitive.",
+      "Energy savings are noticeable on my electricity bill.",
+      "Great value for 4 smart bulbs.",
+      "Reliable connection. No drops in 6 months."
+    ]
+  },
+  {
+    "id": "H004",
+    "name": "SolarGlow Smart LED Bulbs (4-Pack)",
+    "brand": "SolarGlow",
+    "category": "home",
+    "subcategory": "lighting",
+    "description": "Smart Wi-Fi LED bulbs, 16 million colors, voice control.",
+    "price_usd": 42.50,
+    "source": "Flipkart",
+    "rating": 4.2,
+    "review_count": 3200,
+    "sustainability_score": 9,
+    "tags": ["smart bulb", "led", "wifi", "voice control", "energy saving"],
+    "image_url": "https://via.placeholder.com/300x200?text=SolarGlow+LED",
+    "in_stock": true,
+    "discount_history": [
+      {"date": "2024-04-01", "price": 50.00},
+      {"date": "2024-08-01", "price": 42.50}
+    ],
+    "reviews": [
+      "Good smart bulbs for the price.",
+      "Setup was easy. Voice control works well.",
+      "Color range is impressive."
+    ]
+  },
+  {
+    "id": "H005",
+    "name": "PureAir HEPA Air Purifier",
+    "brand": "PureAir",
+    "category": "home",
+    "subcategory": "appliances",
+    "description": "True HEPA + activated carbon air purifier for rooms up to 500 sq ft. Removes 99.97% particles, allergens, VOCs.",
+    "price_usd": 179.99,
+    "source": "Amazon",
+    "rating": 4.6,
+    "review_count": 4100,
+    "sustainability_score": 7,
+    "tags": ["air purifier", "hepa", "allergens", "clean air", "home appliance"],
+    "image_url": "https://via.placeholder.com/300x200?text=PureAir+Purifier",
+    "in_stock": true,
+    "discount_history": [
+      {"date": "2024-01-01", "price": 229.99},
+      {"date": "2024-05-01", "price": 199.99},
+      {"date": "2024-08-01", "price": 179.99}
+    ],
+    "reviews": [
+      "My allergies have improved dramatically since using this.",
+      "Very quiet on low setting. Perfect for bedrooms.",
+      "Air quality sensor is accurate and useful.",
+      "Easy to replace filters. Worth the investment.",
+      "Best air purifier at this price point."
+    ]
+  },
+  {
+    "id": "H006",
+    "name": "PureAir HEPA Air Purifier",
+    "brand": "PureAir",
+    "category": "home",
+    "subcategory": "appliances",
+    "description": "True HEPA air purifier for rooms up to 500 sq ft.",
+    "price_usd": 185.00,
+    "source": "Walmart",
+    "rating": 4.5,
+    "review_count": 1900,
+    "sustainability_score": 7,
+    "tags": ["air purifier", "hepa", "allergens", "clean air"],
+    "image_url": "https://via.placeholder.com/300x200?text=PureAir+Purifier",
+    "in_stock": true,
+    "discount_history": [
+      {"date": "2024-03-01", "price": 210.00},
+      {"date": "2024-09-01", "price": 185.00}
+    ],
+    "reviews": [
+      "Works great. Air feels fresher.",
+      "Quiet and effective.",
+      "Good value."
+    ]
+  },
+  {
+    "id": "H007",
+    "name": "ErgoDesk Bamboo Standing Desk",
+    "brand": "ErgoDesk",
+    "category": "home",
+    "subcategory": "furniture",
+    "description": "Electric height-adjustable standing desk with bamboo desktop. 3 memory settings, anti-collision, holds up to 176 lbs.",
+    "price_usd": 449.99,
+    "source": "Amazon",
+    "rating": 4.4,
+    "review_count": 1560,
+    "sustainability_score": 8,
+    "tags": ["standing desk", "bamboo", "ergonomic", "adjustable", "eco-friendly", "home office"],
+    "image_url": "https://via.placeholder.com/300x200?text=ErgoDesk",
+    "in_stock": true,
+    "discount_history": [
+      {"date": "2024-01-01", "price": 549.99},
+      {"date": "2024-06-01", "price": 499.99},
+      {"date": "2024-09-01", "price": 449.99}
+    ],
+    "reviews": [
+      "Life-changing desk. My back pain is gone.",
+      "Assembly was straightforward. Very sturdy.",
+      "Love the bamboo surface. Looks beautiful in my office.",
+      "Motor is quiet and smooth. Memory settings are great.",
+      "Great investment for home office workers."
+    ]
+  },
+  {
+    "id": "H008",
+    "name": "CozyNest Memory Foam Mattress",
+    "brand": "CozyNest",
+    "category": "home",
+    "subcategory": "bedroom",
+    "description": "Queen-size 12-inch memory foam mattress with cooling gel layer. CertiPUR-US certified foam, 10-year warranty.",
+    "price_usd": 599.99,
+    "source": "Amazon",
+    "rating": 4.7,
+    "review_count": 8900,
+    "sustainability_score": 6,
+    "tags": ["mattress", "memory foam", "cooling", "queen", "sleep", "certified"],
+    "image_url": "https://via.placeholder.com/300x200?text=CozyNest+Mattress",
+    "in_stock": true,
+    "discount_history": [
+      {"date": "2024-01-01", "price": 799.99},
+      {"date": "2024-04-01", "price": 699.99},
+      {"date": "2024-07-01", "price": 649.99},
+      {"date": "2024-09-01", "price": 599.99},
+      {"date": "2024-11-25", "price": 549.99}
+    ],
+    "reviews": [
+      "Best sleep I've had in years. Absolutely love this mattress.",
+      "Cooling layer actually works. No more night sweats.",
+      "Arrived compressed in a box. Fully expanded in 24 hours.",
+      "Perfect firmness for back sleepers.",
+      "The 10-year warranty gives great peace of mind."
+    ]
+  },
+  {
+    "id": "B001",
+    "name": "GlowSerum Vitamin C Serum",
+    "brand": "GlowLab",
+    "category": "beauty",
+    "subcategory": "skincare",
+    "description": "20% Vitamin C + Hyaluronic Acid + Vitamin E brightening face serum. Cruelty-free, vegan, dermatologist-tested.",
+    "price_usd": 34.99,
+    "source": "Amazon",
+    "rating": 4.5,
+    "review_count": 12400,
+    "sustainability_score": 8,
+    "tags": ["serum", "vitamin c", "skincare", "brightening", "vegan", "cruelty-free"],
+    "image_url": "https://via.placeholder.com/300x200?text=GlowSerum+Vit+C",
+    "in_stock": true,
+    "discount_history": [
+      {"date": "2024-01-01", "price": 44.99},
+      {"date": "2024-05-01", "price": 39.99},
+      {"date": "2024-08-01", "price": 34.99}
+    ],
+    "reviews": [
+      "My skin is noticeably brighter after 2 weeks of use.",
+      "Lightweight formula that absorbs quickly. No greasy feel.",
+      "Love that it's vegan and cruelty-free.",
+      "Dark spots have faded significantly.",
+      "Best Vitamin C serum I've tried at any price point."
+    ]
+  },
+  {
+    "id": "B002",
+    "name": "GlowSerum Vitamin C Serum",
+    "brand": "GlowLab",
+    "category": "beauty",
+    "subcategory": "skincare",
+    "description": "20% Vitamin C + Hyaluronic Acid brightening serum. Cruelty-free and vegan.",
+    "price_usd": 36.50,
+    "source": "Flipkart",
+    "rating": 4.4,
+    "review_count": 5600,
+    "sustainability_score": 8,
+    "tags": ["serum", "vitamin c", "skincare", "brightening", "vegan"],
+    "image_url": "https://via.placeholder.com/300x200?text=GlowSerum+Vit+C",
+    "in_stock": true,
+    "discount_history": [
+      {"date": "2024-04-01", "price": 42.00},
+      {"date": "2024-09-01", "price": 36.50}
+    ],
+    "reviews": [
+      "Works as advertised. Skin feels smoother.",
+      "Good serum for the price.",
+      "Absorbed quickly with no residue."
+    ]
+  },
+  {
+    "id": "B003",
+    "name": "HydraBoost SPF 50 Sunscreen",
+    "brand": "DermaSafe",
+    "category": "beauty",
+    "subcategory": "skincare",
+    "description": "Lightweight mineral SPF 50 sunscreen with zinc oxide, hyaluronic acid, and niacinamide. Reef-safe formula.",
+    "price_usd": 24.99,
+    "source": "Amazon",
+    "rating": 4.4,
+    "review_count": 8700,
+    "sustainability_score": 9,
+    "tags": ["sunscreen", "spf50", "mineral", "reef-safe", "skincare", "zinc oxide"],
+    "image_url": "https://via.placeholder.com/300x200?text=HydraBoost+SPF50",
+    "in_stock": true,
+    "discount_history": [
+      {"date": "2024-01-01", "price": 32.99},
+      {"date": "2024-05-01", "price": 27.99},
+      {"date": "2024-08-01", "price": 24.99}
+    ],
+    "reviews": [
+      "Doesn't leave a white cast unlike other mineral sunscreens.",
+      "Reef-safe formula is important to me. Very happy with this.",
+      "Lightweight and hydrating. Perfect for daily use.",
+      "Great sunscreen that doesn't break out my skin.",
+      "Love the niacinamide addition. Skin looks clearer."
+    ]
+  },
+  {
+    "id": "B004",
+    "name": "NaturalGlow Foundation Stick",
+    "brand": "EarthMakeup",
+    "category": "beauty",
+    "subcategory": "makeup",
+    "description": "Buildable coverage foundation stick with SPF 30. 30 shades, vegan, cruelty-free, and made with 90% natural ingredients.",
+    "price_usd": 28.99,
+    "source": "Amazon",
+    "rating": 4.3,
+    "review_count": 3400,
+    "sustainability_score": 9,
+    "tags": ["foundation", "makeup", "vegan", "natural", "spf30", "cruelty-free"],
+    "image_url": "https://via.placeholder.com/300x200?text=NaturalGlow+Foundation",
+    "in_stock": true,
+    "discount_history": [
+      {"date": "2024-02-01", "price": 35.99},
+      {"date": "2024-07-01", "price": 31.99},
+      {"date": "2024-10-01", "price": 28.99}
+    ],
+    "reviews": [
+      "Shade range is impressive. Found my perfect match.",
+      "Buildable coverage without looking cakey.",
+      "Love that it has SPF. Great for everyday wear.",
+      "The natural ingredients are a big plus for my sensitive skin.",
+      "Creamy texture that blends seamlessly."
+    ]
+  },
+  {
+    "id": "B005",
+    "name": "ZenScent Aromatherapy Diffuser",
+    "brand": "ZenHome",
+    "category": "beauty",
+    "subcategory": "wellness",
+    "description": "Ultrasonic essential oil diffuser, 500ml capacity, 7-color LED light, whisper-quiet motor, auto shut-off. BPA-free.",
+    "price_usd": 32.99,
+    "source": "Amazon",
+    "rating": 4.6,
+    "review_count": 9200,
+    "sustainability_score": 7,
+    "tags": ["diffuser", "aromatherapy", "essential oil", "wellness", "led", "bpa-free"],
+    "image_url": "https://via.placeholder.com/300x200?text=ZenScent+Diffuser",
+    "in_stock": true,
+    "discount_history": [
+      {"date": "2024-01-01", "price": 42.99},
+      {"date": "2024-06-01", "price": 37.99},
+      {"date": "2024-09-01", "price": 32.99}
+    ],
+    "reviews": [
+      "Transforms my bedroom into a spa. Love the LED colors.",
+      "Very quiet. Doesn't disturb my sleep at all.",
+      "Easy to clean and maintain.",
+      "Fills the whole room with fragrance.",
+      "Best diffuser I've owned. Auto shut-off is great."
+    ]
+  },
+  {
+    "id": "B006",
+    "name": "ZenScent Aromatherapy Diffuser",
+    "brand": "ZenHome",
+    "category": "beauty",
+    "subcategory": "wellness",
+    "description": "Ultrasonic essential oil diffuser, 500ml capacity, 7-color LED.",
+    "price_usd": 30.00,
+    "source": "Walmart",
+    "rating": 4.5,
+    "review_count": 4100,
+    "sustainability_score": 7,
+    "tags": ["diffuser", "aromatherapy", "essential oil", "wellness"],
+    "image_url": "https://via.placeholder.com/300x200?text=ZenScent+Diffuser",
+    "in_stock": true,
+    "discount_history": [
+      {"date": "2024-05-01", "price": 38.00},
+      {"date": "2024-10-01", "price": 30.00}
+    ],
+    "reviews": [
+      "Great diffuser. Works as expected.",
+      "Good value for money.",
+      "Quiet and effective."
+    ]
+  },
+  {
+    "id": "E011",
+    "name": "TabletPro 11 Wi-Fi",
+    "brand": "TabCo",
+    "category": "electronics",
+    "subcategory": "tablets",
+    "description": "11-inch 2K tablet with octa-core processor, 128GB storage, stylus support, 12-hour battery. Great for students and creators.",
+    "price_usd": 349.99,
+    "source": "Amazon",
+    "rating": 4.4,
+    "review_count": 2100,
+    "sustainability_score": 5,
+    "tags": ["tablet", "android", "2k display", "student", "stylus", "portable"],
+    "image_url": "https://via.placeholder.com/300x200?text=TabletPro+11",
+    "in_stock": true,
+    "discount_history": [
+      {"date": "2024-02-01", "price": 429.99},
+      {"date": "2024-07-01", "price": 389.99},
+      {"date": "2024-10-01", "price": 349.99}
+    ],
+    "reviews": [
+      "Perfect tablet for note-taking in class.",
+      "Display is crisp and vibrant. Love watching movies on it.",
+      "Battery lasts all day easily.",
+      "Stylus support makes it great for art.",
+      "Solid performance for the price."
+    ]
+  },
+  {
+    "id": "H009",
+    "name": "EcoBrew Pour-Over Coffee Set",
+    "brand": "BrewNaturals",
+    "category": "home",
+    "subcategory": "kitchen",
+    "description": "Handcrafted pour-over coffee set with borosilicate glass carafe, stainless steel filter, and bamboo stand. Zero waste brewing.",
+    "price_usd": 44.99,
+    "source": "Amazon",
+    "rating": 4.7,
+    "review_count": 3600,
+    "sustainability_score": 10,
+    "tags": ["coffee", "pour-over", "eco-friendly", "zero waste", "bamboo", "glass"],
+    "image_url": "https://via.placeholder.com/300x200?text=EcoBrew+Coffee",
+    "in_stock": true,
+    "discount_history": [
+      {"date": "2024-01-01", "price": 59.99},
+      {"date": "2024-05-01", "price": 54.99},
+      {"date": "2024-08-01", "price": 44.99}
+    ],
+    "reviews": [
+      "The coffee tastes amazing. Best brewing method ever.",
+      "Beautiful product that looks great on my kitchen counter.",
+      "Love the zero-waste concept. No more paper filters.",
+      "Easy to clean and the stainless filter is durable.",
+      "Perfect gift for any coffee lover."
+    ]
+  },
+  {
+    "id": "C008",
+    "name": "AlpineDown Puffer Jacket",
+    "brand": "AlpineGear",
+    "category": "clothing",
+    "subcategory": "outerwear",
+    "description": "Packable down puffer jacket with 650-fill goose down. Compresses to the size of a water bottle. Recycled outer shell.",
+    "price_usd": 129.99,
+    "source": "Amazon",
+    "rating": 4.5,
+    "review_count": 1780,
+    "sustainability_score": 7,
+    "tags": ["jacket", "puffer", "down", "packable", "winter", "recycled"],
+    "image_url": "https://via.placeholder.com/300x200?text=Alpine+Puffer",
+    "in_stock": true,
+    "discount_history": [
+      {"date": "2024-01-01", "price": 169.99},
+      {"date": "2024-04-01", "price": 149.99},
+      {"date": "2024-09-01", "price": 129.99}
+    ],
+    "reviews": [
+      "Incredibly warm for how light it is.",
+      "Packs down so small. Perfect for travel.",
+      "The recycled shell is a nice eco touch.",
+      "Great value compared to big-name brands.",
+      "My go-to jacket for winter travel."
+    ]
+  },
+  {
+    "id": "B007",
+    "name": "HairLux Ionic Hair Dryer",
+    "brand": "HairLux",
+    "category": "beauty",
+    "subcategory": "hair care",
+    "description": "Professional ionic hair dryer with 1875W motor, 3 heat settings, 2 speeds, cool shot, and diffuser attachment.",
+    "price_usd": 59.99,
+    "source": "Amazon",
+    "rating": 4.5,
+    "review_count": 11200,
+    "sustainability_score": 4,
+    "tags": ["hair dryer", "ionic", "professional", "fast drying", "frizz-free"],
+    "image_url": "https://via.placeholder.com/300x200?text=HairLux+Dryer",
+    "in_stock": true,
+    "discount_history": [
+      {"date": "2024-01-01", "price": 79.99},
+      {"date": "2024-06-01", "price": 69.99},
+      {"date": "2024-09-01", "price": 59.99}
+    ],
+    "reviews": [
+      "Dries my thick hair in half the time.",
+      "Hair feels so much smoother and less frizzy.",
+      "Lightweight and easy to handle.",
+      "Great dryer for the price. Very powerful.",
+      "The diffuser attachment is a bonus."
+    ]
+  },
+  {
+    "id": "E012",
+    "name": "RoboClean X3 Robot Vacuum",
+    "brand": "RoboClean",
+    "category": "home",
+    "subcategory": "appliances",
+    "description": "Smart robot vacuum with LiDAR mapping, 4000Pa suction, 180-min runtime, auto-empty base, works on carpet and hardwood.",
+    "price_usd": 349.99,
+    "source": "Amazon",
+    "rating": 4.5,
+    "review_count": 5400,
+    "sustainability_score": 5,
+    "tags": ["robot vacuum", "smart home", "lidar", "auto-empty", "floor cleaning"],
+    "image_url": "https://via.placeholder.com/300x200?text=RoboClean+X3",
+    "in_stock": true,
+    "discount_history": [
+      {"date": "2024-01-01", "price": 449.99},
+      {"date": "2024-05-01", "price": 399.99},
+      {"date": "2024-08-01", "price": 349.99},
+      {"date": "2024-11-25", "price": 299.99}
+    ],
+    "reviews": [
+      "Sets and forgets. My floors are always clean.",
+      "LiDAR mapping is accurate. Never gets stuck.",
+      "Auto-empty base is worth every penny.",
+      "Suction power is impressive on pet hair.",
+      "Best investment I've made for my home."
+    ]
+  },
+  {
+    "id": "E013",
+    "name": "PowerBank Ultra 26800mAh",
+    "brand": "ChargeFast",
+    "category": "electronics",
+    "subcategory": "accessories",
+    "description": "26800mAh portable power bank with 65W USB-C PD fast charge. Can charge a laptop. 3 ports simultaneously.",
+    "price_usd": 49.99,
+    "source": "Amazon",
+    "rating": 4.4,
+    "review_count": 6700,
+    "sustainability_score": 4,
+    "tags": ["power bank", "fast charge", "usb-c", "portable", "laptop charger"],
+    "image_url": "https://via.placeholder.com/300x200?text=PowerBank+Ultra",
+    "in_stock": true,
+    "discount_history": [
+      {"date": "2024-01-01", "price": 69.99},
+      {"date": "2024-06-01", "price": 59.99},
+      {"date": "2024-09-01", "price": 49.99}
+    ],
+    "reviews": [
+      "Charges my laptop and phone simultaneously.",
+      "Huge capacity. Lasts days on a single charge.",
+      "65W output is genuinely fast.",
+      "Compact for 26800mAh. Easy to carry.",
+      "Best value power bank on the market."
+    ]
+  },
+  {
+    "id": "H010",
+    "name": "SleepCool Weighted Blanket",
+    "brand": "DreamComfort",
+    "category": "home",
+    "subcategory": "bedroom",
+    "description": "15lb cooling weighted blanket with glass bead fill, breathable bamboo cover, and machine-washable design.",
+    "price_usd": 89.99,
+    "source": "Amazon",
+    "rating": 4.6,
+    "review_count": 7300,
+    "sustainability_score": 7,
+    "tags": ["weighted blanket", "cooling", "bamboo", "sleep", "anxiety relief"],
+    "image_url": "https://via.placeholder.com/300x200?text=SleepCool+Blanket",
+    "in_stock": true,
+    "discount_history": [
+      {"date": "2024-01-01", "price": 119.99},
+      {"date": "2024-05-01", "price": 99.99},
+      {"date": "2024-08-01", "price": 89.99}
+    ],
+    "reviews": [
+      "Transformed my sleep quality completely.",
+      "The bamboo cover is incredibly soft and cool.",
+      "Perfect weight. Feels like a warm hug.",
+      "My anxiety has noticeably reduced at night.",
+      "Machine washable is a must. Easy to maintain."
+    ]
+  }
+]
